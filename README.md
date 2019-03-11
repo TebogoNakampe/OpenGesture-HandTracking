@@ -62,7 +62,7 @@ Note that the inference engine backend is used by default since OpenCV 3.4.2 (Op
 * Mano Motion: smartphone camera
 * PilotBit Mobile Hand Tracking: 3D sensor
 
-## 2. Defining hand gestures to control keys on a keyboard and mouse.
+## 2. Defining hand gestures.
 Horns Sign                 |  Peace Sign
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/TebogoNakampe/OpenGesture/master/assets/a4g.png)  |  ![](https://raw.githubusercontent.com/TebogoNakampe/OpenGesture/master/assets/peace.png)
