@@ -13,7 +13,7 @@ The code in this repository is authored for computer-vision and machine-learning
 
 This project provides C++ code to demonstrate Hand Gestures via on PC camera or depth data, namely Intel® RealSense™ depth cameras.
 
-The software provided here works with the currently available Intel® RealSense™ D400 depth cameras supported by librealsense2. XRDrive is experimental code and not an official Intel® product.
+The software provided here works with the currently available Intel® RealSense™ D400 depth cameras supported by librealsense2. OpenGesture is experimental code and not an official Intel® product.
 
 ## OpenGesture
 
