@@ -22,7 +22,7 @@ The software provided here works with the currently available Intel® RealSense�
 
 # OpenGesture Hardware and Software
 
-XRDrive is an inference-based application supercharged with power-efficient Intel® processors and Intel® Processor Graphics on a laptop.
+OpenGesture is an inference-based application supercharged with power-efficient Intel® processors and Intel® Processor Graphics on a laptop.
 
 1. ZenBook UX430
 2. Intel Core i7 8th Gen
