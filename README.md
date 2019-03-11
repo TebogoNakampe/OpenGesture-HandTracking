@@ -71,3 +71,13 @@ Horns Sign                 |  Peace Sign
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/TebogoNakampe/OpenGesture/master/assets/a4g.png)  |  ![](https://raw.githubusercontent.com/TebogoNakampe/OpenGesture/master/assets/peace.png)
 
+
+## 6. Running the OpenGesture
+
+* Open Qt Creator and Go to File
+* Open project, then browse and select oGesture.pro
+* In Qt under project files expand sources and src, to find main.cpp
+* Ctrl+Shift+B to build while in main.cpp script. The build can be chosen from Release and Debug.
+* Click Run or Ctrl+R
+
+Check out the demo: https://vimeo.com/321810159
