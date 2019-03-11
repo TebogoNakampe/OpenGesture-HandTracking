@@ -1,4 +1,4 @@
-# XRDrive-Sim
+# OpenGesture 0.0.1v
 Platform | Build Status |
 -------- | ------------ |
 Qt5 | [![Build status](https://ci.appveyor.com/api/projects/status/swutsp1bjcc56q64/branch/master?svg=true)](https://ci.appveyor.com/project/ddiakopoulos/hand-tracking-samples/branch/master)
@@ -11,7 +11,7 @@ Qt5 | [![Build status](https://ci.appveyor.com/api/projects/status/swutsp1bjcc56
 
 The code in this repository is authored for computer-vision and machine-learning students and researchers interested in developing hand gesture applications using Intel® RealSense™ D400 depth cameras. 
 
-This project provides C++ code to demonstrate Hand Gestures via on PC camera or depth data, namely Intel® RealSense™ depth cameras.
+This project provides C++ code to demonstrate Hand Gestures via depth data from Intel® RealSense™ depth cameras.
 
 The software provided here works with the currently available Intel® RealSense™ D400 depth cameras supported by librealsense2. OpenGesture is experimental code and not an official Intel® product.
 
