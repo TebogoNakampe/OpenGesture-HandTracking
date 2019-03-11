@@ -69,4 +69,8 @@ Note that the inference engine backend is used by default since OpenCV 3.4.2 (Op
 <p align="left">
   <img width="460" height="300" src="https://github.com/TebogoNakampe/XRDrive-Sim/blob/master/Code/hand.gif">
 </p>
+<p float="left">
+  <img width="460" height="300" src="https://github.com/TebogoNakampe/XRDrive-Sim/blob/master/Code/hand.gif">
+   <img width="460" height="300" src="https://github.com/TebogoNakampe/XRDrive-Sim/blob/master/Code/hand.gif">
+</p>
 
