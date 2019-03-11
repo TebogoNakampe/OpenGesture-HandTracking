@@ -44,7 +44,7 @@ XRDrive is an inference-based application supercharged with power-efficient Inte
 	* [Install from source code](https://github.com/IntelRealSense/librealsense/blob/v2.14.1/doc/installation.md)(Recommended)<br>
 	* [Install from package](https://github.com/IntelRealSense/librealsense/blob/v2.14.1/doc/distribution_linux.md)<br>
 * [Install Qt5 for Ubuntu](https://wiki.qt.io/Install_Qt_5_on_Ubuntu)
-	```
+
 
 Note that the inference engine backend is used by default since OpenCV 3.4.2 (OpenVINO 2018.R2) when OpenCV is built with the Inference engine support, so the call above is not necessary. Also, the Inference engine backend is the only available option (also enabled by default) when the loaded model is represented in OpenVINO™ Model Optimizer format.
        ```
