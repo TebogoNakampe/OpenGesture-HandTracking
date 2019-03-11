@@ -63,14 +63,7 @@ Note that the inference engine backend is used by default since OpenCV 3.4.2 (Op
 * PilotBit Mobile Hand Tracking: 3D sensor
 
 ## 2. Defining hand gestures to control keys on a keyboard and mouse.
-<p align="right">
-  <img width="460" height="300" src="https://github.com/TebogoNakampe/XRDrive-Sim/blob/master/Code/hand.gif">
-</p>
-<p align="left">
-  <img width="460" height="300" src="https://github.com/TebogoNakampe/XRDrive-Sim/blob/master/Code/hand.gif">
-</p>
-<p float="left">
-  <img width="460" height="300" src="https://github.com/TebogoNakampe/XRDrive-Sim/blob/master/Code/hand.gif">
-   <img width="460" height="300" src="https://github.com/TebogoNakampe/XRDrive-Sim/blob/master/Code/hand.gif">
-</p>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/TebogoNakampe/OpenGesture/master/assets/a4g.png)  |  ![](https://raw.githubusercontent.com/TebogoNakampe/OpenGesture/master/assets/peace.png)
 
