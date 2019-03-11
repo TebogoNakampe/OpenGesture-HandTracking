@@ -77,7 +77,7 @@ Horns Sign                 |  Peace Sign
 * Open Qt Creator and Go to File
 * Open project, then browse and select oGesture.pro
 * In Qt under project files expand sources and src, to find main.cpp
-* Ctrl+Shift+B to build while in main.cpp script. The build can be chosen from Release and Debug.
+* Ctrl+Shift+B to build while in main.cpp script. The build can be Release/Debug.
 * Click Run or Ctrl+R
 
 Check out the demo: https://vimeo.com/321810159
