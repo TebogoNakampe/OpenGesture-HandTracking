@@ -4,9 +4,9 @@ Platform | Build Status |
 Qt5 | [![Build status](https://ci.appveyor.com/api/projects/status/swutsp1bjcc56q64/branch/master?svg=true)](https://ci.appveyor.com/project/ddiakopoulos/hand-tracking-samples/branch/master)
 
 <p align="center">
-  <"https://raw.githubusercontent.com/TebogoNakampe/OpenGesture/master/assets/OpenGesture.png">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/TebogoNakampe/OpenGesture/master/assets/OpenGesture.png">
 </p>
-
+     
 ## Audience
 
 The code in this repository is authored for computer-vision and machine-learning students and researchers interested in developing hand gesture applications using Intel® RealSense™ D400 depth cameras. 
